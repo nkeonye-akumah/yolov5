@@ -13,3 +13,4 @@
 0277. 🎨 style: standardize quote style
 0208. 🔧 refactor: clean up auth middleware
 0934. ✨ feat: support email verification
+0469. 🚀 perf: lazy-load components
