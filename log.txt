@@ -15,3 +15,4 @@
 0934. ✨ feat: support email verification
 0469. 🚀 perf: lazy-load components
 0289. 🐛 fix: resolve issue with date parsing
+0453. 🎨 style: standardize quote style
