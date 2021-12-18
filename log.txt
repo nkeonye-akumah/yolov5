@@ -17,3 +17,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0453. 🎨 style: standardize quote style
 0930. 🎨 style: apply consistent indentation
+0201. 🔧 refactor: clean up auth middleware
