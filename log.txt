@@ -21,3 +21,4 @@
 0369. 🎨 style: standardize quote style
 0077. ♻️ chore: rename env.example
 0709. ♻️ chore: bump dependencies
+0276. ✅ test: add integration test for /submit endpoint
