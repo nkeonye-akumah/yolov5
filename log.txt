@@ -30,3 +30,4 @@
 0649. 📚 docs: update README with setup steps
 0857. 🎨 style: rename variables for clarity
 0330. ✅ test: test user registration edge cases
+0190. 🎨 style: rename variables for clarity
