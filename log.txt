@@ -47,3 +47,4 @@
 0969. ✨ feat: create admin dashboard
 0762. 🚀 perf: lazy-load components
 0648. ♻️ chore: bump dependencies
+0198. 📚 docs: clarify environment setup
