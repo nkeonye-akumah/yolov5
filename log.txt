@@ -55,3 +55,4 @@
 0061. ✨ feat: create admin dashboard
 0404. 📚 docs: improve code comments in utils
 0373. 📚 docs: document token refresh logic
+0291. 📚 docs: write FAQ section
