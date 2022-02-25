@@ -61,3 +61,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0135. ✅ test: test user registration edge cases
 0111. 📚 docs: update README with setup steps
+0384. 📚 docs: clarify environment setup
