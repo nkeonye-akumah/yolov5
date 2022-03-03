@@ -62,3 +62,4 @@
 0135. ✅ test: test user registration edge cases
 0111. 📚 docs: update README with setup steps
 0384. 📚 docs: clarify environment setup
+0871. ✅ test: add integration test for /submit endpoint
