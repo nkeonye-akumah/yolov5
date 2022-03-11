@@ -66,3 +66,4 @@
 0682. ♻️ chore: rename env.example
 0631. ✨ feat: create admin dashboard
 0613. 🐛 fix: prevent crash on empty input
+0521. 🎨 style: standardize quote style
