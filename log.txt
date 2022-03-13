@@ -68,3 +68,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0521. 🎨 style: standardize quote style
 0066. 🔧 refactor: clean up auth middleware
+0603. 🐛 fix: fix broken CSS in mobile view
