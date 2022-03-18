@@ -71,3 +71,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0845. 🚀 perf: cache repeated calculations
 0097. 🐛 fix: handle 500 error in quiz API
+0959. 🐛 fix: fix null pointer exception on login
