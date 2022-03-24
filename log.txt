@@ -77,3 +77,4 @@
 0435. ✅ test: add unit test for quiz service
 0694. 🎨 style: rename variables for clarity
 0529. 📚 docs: write FAQ section
+0120. ✅ test: add integration test for /submit endpoint
