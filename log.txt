@@ -80,3 +80,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0642. 🚀 perf: optimize database query for quiz results
 0890. 🔧 refactor: organize models into subfolders
+0935. 📚 docs: update README with setup steps
