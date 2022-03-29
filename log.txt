@@ -83,3 +83,4 @@
 0935. 📚 docs: update README with setup steps
 0785. ✨ feat: enable dark mode toggle
 0302. ✨ feat: implement quiz timer feature
+0749. ✨ feat: support email verification
