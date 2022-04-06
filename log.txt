@@ -89,3 +89,4 @@
 0161. ✨ feat: create admin dashboard
 0488. ♻️ chore: add GitHub actions badge
 0192. ✨ feat: enable dark mode toggle
+0080. ✨ feat: support email verification
