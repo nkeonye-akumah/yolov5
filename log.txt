@@ -90,3 +90,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0192. ✨ feat: enable dark mode toggle
 0080. ✨ feat: support email verification
+0271. ✅ test: add unit test for quiz service
