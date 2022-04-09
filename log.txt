@@ -93,3 +93,4 @@
 0271. ✅ test: add unit test for quiz service
 0375. 🐛 fix: handle 500 error in quiz API
 0162. ♻️ chore: add GitHub actions badge
+0661. ✅ test: add integration test for /submit endpoint
