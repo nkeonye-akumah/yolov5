@@ -111,3 +111,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0052. 🎨 style: standardize quote style
 0679. ♻️ chore: bump dependencies
+0450. 🐛 fix: fix broken CSS in mobile view
