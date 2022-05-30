@@ -126,3 +126,4 @@
 0463. 🚀 perf: reduce image load time
 0945. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
+0519. 📚 docs: document token refresh logic
