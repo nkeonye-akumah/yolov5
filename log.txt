@@ -130,3 +130,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0799. ♻️ chore: clean up unused files
 0476. 🚀 perf: reduce image load time
+0225. 🚀 perf: reduce image load time
