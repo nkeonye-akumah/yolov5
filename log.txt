@@ -134,3 +134,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0033. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
+0558. ✨ feat: enable dark mode toggle
