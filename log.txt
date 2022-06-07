@@ -135,3 +135,4 @@
 0033. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
 0558. ✨ feat: enable dark mode toggle
+0164. 📚 docs: document token refresh logic
