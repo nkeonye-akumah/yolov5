@@ -140,3 +140,4 @@
 0418. ✅ test: mock database connection in test suite
 0955. 🔧 refactor: remove redundant code blocks
 0475. 🔧 refactor: clean up auth middleware
+0986. 📚 docs: document token refresh logic
