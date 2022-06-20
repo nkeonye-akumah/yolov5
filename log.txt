@@ -143,3 +143,4 @@
 0986. 📚 docs: document token refresh logic
 0138. 🎨 style: rename variables for clarity
 0118. 🚀 perf: reduce image load time
+0354. 📚 docs: add API usage examples
