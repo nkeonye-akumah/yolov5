@@ -146,3 +146,4 @@
 0354. 📚 docs: add API usage examples
 0743. 🎨 style: apply consistent indentation
 0579. 📚 docs: clarify environment setup
+0316. 🐛 fix: fix broken CSS in mobile view
