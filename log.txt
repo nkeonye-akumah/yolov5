@@ -148,3 +148,4 @@
 0579. 📚 docs: clarify environment setup
 0316. 🐛 fix: fix broken CSS in mobile view
 0580. ♻️ chore: bump dependencies
+0328. 🐛 fix: resolve issue with date parsing
