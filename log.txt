@@ -158,3 +158,4 @@
 0013. ✅ test: increase coverage on auth module
 0057. 🚀 perf: optimize database query for quiz results
 0729. 🔧 refactor: refactor quiz grading logic
+0849. 🐛 fix: correct typo in registration form
