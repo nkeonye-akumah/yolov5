@@ -161,3 +161,4 @@
 0849. 🐛 fix: correct typo in registration form
 0086. 🐛 fix: correct typo in registration form
 0100. ♻️ chore: update .gitignore
+0294. 🐛 fix: prevent crash on empty input
