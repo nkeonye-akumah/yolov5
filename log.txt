@@ -169,3 +169,4 @@
 0252. 🎨 style: remove trailing whitespace
 0266. 🔧 refactor: remove redundant code blocks
 0805. ♻️ chore: add GitHub actions badge
+0653. 🐛 fix: prevent crash on empty input
