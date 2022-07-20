@@ -172,3 +172,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0222. 🐛 fix: handle 500 error in quiz API
 0060. ♻️ chore: clean up unused files
+0448. 🐛 fix: correct typo in registration form
