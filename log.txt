@@ -173,3 +173,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0060. ♻️ chore: clean up unused files
 0448. 🐛 fix: correct typo in registration form
+0402. 🎨 style: reformat files with black
