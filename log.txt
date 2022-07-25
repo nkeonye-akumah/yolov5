@@ -177,3 +177,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0495. 🔧 refactor: remove redundant code blocks
 0032. 🎨 style: apply consistent indentation
+0459. 🔧 refactor: organize models into subfolders
