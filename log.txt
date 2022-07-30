@@ -181,3 +181,4 @@
 0528. ♻️ chore: clean up unused files
 0318. 🔧 refactor: refactor quiz grading logic
 0987. ✨ feat: create admin dashboard
+0988. 🐛 fix: fix broken CSS in mobile view
