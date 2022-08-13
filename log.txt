@@ -189,3 +189,4 @@
 0781. 🚀 perf: reduce image load time
 0990. ♻️ chore: rename env.example
 0940. 📚 docs: document token refresh logic
+0693. 📚 docs: add API usage examples
