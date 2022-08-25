@@ -197,3 +197,4 @@
 0031. 📚 docs: document token refresh logic
 0359. 🔧 refactor: clean up auth middleware
 0633. ✨ feat: add user authentication
+0641. 📚 docs: write FAQ section
