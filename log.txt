@@ -206,3 +206,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0228. 🔧 refactor: remove redundant code blocks
 0542. 🔧 refactor: organize models into subfolders
+0226. 🚀 perf: lazy-load components
