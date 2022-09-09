@@ -207,3 +207,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0542. 🔧 refactor: organize models into subfolders
 0226. 🚀 perf: lazy-load components
+0843. 📚 docs: document token refresh logic
