@@ -216,3 +216,4 @@
 0685. ✅ test: test user registration edge cases
 0533. ♻️ chore: add GitHub actions badge
 0053. ✅ test: increase coverage on auth module
+0076. 🎨 style: reformat files with black
