@@ -219,3 +219,4 @@
 0076. 🎨 style: reformat files with black
 0907. 🔧 refactor: split large controller into smaller functions
 0279. ✨ feat: support email verification
+0081. 🐛 fix: fix null pointer exception on login
