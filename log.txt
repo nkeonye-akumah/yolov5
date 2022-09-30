@@ -224,3 +224,4 @@
 0545. 🎨 style: standardize quote style
 0701. 🔧 refactor: clean up auth middleware
 0461. ✨ feat: add user authentication
+0565. ♻️ chore: add GitHub actions badge
