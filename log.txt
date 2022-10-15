@@ -234,3 +234,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0861. ♻️ chore: clean up unused files
 0594. 🎨 style: reformat files with black
+0941. 🚀 perf: cache repeated calculations
