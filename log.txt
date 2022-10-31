@@ -240,3 +240,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0652. 🔧 refactor: organize models into subfolders
 0964. ♻️ chore: clean up unused files
+0335. ♻️ chore: update .gitignore
