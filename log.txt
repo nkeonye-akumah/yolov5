@@ -253,3 +253,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0512. 🚀 perf: reduce image load time
 0828. ♻️ chore: add GitHub actions badge
+0876. ♻️ chore: rename env.example
