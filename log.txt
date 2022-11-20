@@ -256,3 +256,4 @@
 0876. ♻️ chore: rename env.example
 0447. ♻️ chore: bump dependencies
 0301. 🎨 style: apply consistent indentation
+0596. ♻️ chore: update .gitignore
