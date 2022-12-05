@@ -267,3 +267,4 @@
 0431. 🎨 style: reformat files with black
 0400. 🐛 fix: fix null pointer exception on login
 0195. 📚 docs: clarify environment setup
+0054. ♻️ chore: update .gitignore
