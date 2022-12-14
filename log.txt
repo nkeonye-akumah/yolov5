@@ -272,3 +272,4 @@
 0390. 🎨 style: standardize quote style
 0822. 🔧 refactor: remove redundant code blocks
 0364. 🐛 fix: resolve issue with date parsing
+0055. 📚 docs: update README with setup steps
