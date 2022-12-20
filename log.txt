@@ -277,3 +277,4 @@
 0417. 🎨 style: rename variables for clarity
 0131. 📚 docs: write FAQ section
 0046. 🎨 style: rename variables for clarity
+0973. 🔧 refactor: organize models into subfolders
