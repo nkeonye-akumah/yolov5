@@ -286,3 +286,4 @@
 0491. 🚀 perf: lazy-load components
 0187. ✨ feat: support email verification
 0853. 🔧 refactor: refactor quiz grading logic
+0010. ✨ feat: add user authentication
