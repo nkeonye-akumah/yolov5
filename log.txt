@@ -299,3 +299,4 @@
 0462. ♻️ chore: update .gitignore
 0664. ✅ test: add unit test for quiz service
 0393. 🚀 perf: lazy-load components
+0622. 🎨 style: apply consistent indentation
