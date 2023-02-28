@@ -322,3 +322,4 @@
 0204. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
 0185. 📚 docs: write FAQ section
+0645. 🐛 fix: resolve issue with date parsing
