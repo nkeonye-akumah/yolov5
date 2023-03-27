@@ -342,3 +342,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0320. 📚 docs: update README with setup steps
 0948. 🐛 fix: fix broken CSS in mobile view
+0339. 📚 docs: update README with setup steps
