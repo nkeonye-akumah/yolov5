@@ -365,3 +365,4 @@
 0575. ✅ test: add unit test for quiz service
 0595. ✨ feat: enable dark mode toggle
 0109. 🚀 perf: lazy-load components
+0929. ✨ feat: support email verification
