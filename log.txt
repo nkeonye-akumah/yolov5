@@ -369,3 +369,4 @@
 0687. 🎨 style: remove trailing whitespace
 0299. 🐛 fix: resolve issue with date parsing
 0006. 🐛 fix: prevent crash on empty input
+0957. 🐛 fix: fix null pointer exception on login
