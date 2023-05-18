@@ -373,3 +373,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0963. 🚀 perf: reduce image load time
 0705. 🔧 refactor: refactor quiz grading logic
+0147. ♻️ chore: bump dependencies
