@@ -375,3 +375,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0147. ♻️ chore: bump dependencies
 0023. 📚 docs: clarify environment setup
+0747. 🔧 refactor: clean up auth middleware
