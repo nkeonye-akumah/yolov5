@@ -376,3 +376,4 @@
 0147. ♻️ chore: bump dependencies
 0023. 📚 docs: clarify environment setup
 0747. 🔧 refactor: clean up auth middleware
+0816. 🔧 refactor: organize models into subfolders
