@@ -381,3 +381,4 @@
 0197. 📚 docs: update README with setup steps
 0840. 🔧 refactor: refactor quiz grading logic
 0620. ✨ feat: implement quiz timer feature
+0317. ✅ test: test user registration edge cases
