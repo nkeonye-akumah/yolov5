@@ -384,3 +384,4 @@
 0317. ✅ test: test user registration edge cases
 0589. 🐛 fix: fix broken CSS in mobile view
 0854. ♻️ chore: rename env.example
+0759. 🔧 refactor: organize models into subfolders
