@@ -387,3 +387,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0496. ✅ test: add integration test for /submit endpoint
 0020. ✅ test: add integration test for /submit endpoint
+0838. 🎨 style: standardize quote style
