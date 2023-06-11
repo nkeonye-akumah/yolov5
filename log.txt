@@ -388,3 +388,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0020. ✅ test: add integration test for /submit endpoint
 0838. 🎨 style: standardize quote style
+0037. 🐛 fix: correct typo in registration form
