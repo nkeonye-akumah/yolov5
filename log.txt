@@ -397,3 +397,4 @@
 0209. ✨ feat: implement quiz timer feature
 0388. 🎨 style: reformat files with black
 0826. 📚 docs: clarify environment setup
+0809. ♻️ chore: rename env.example
