@@ -398,3 +398,4 @@
 0388. 🎨 style: reformat files with black
 0826. 📚 docs: clarify environment setup
 0809. ♻️ chore: rename env.example
+0769. ✨ feat: create admin dashboard
