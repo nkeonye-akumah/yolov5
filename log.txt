@@ -407,3 +407,4 @@
 0914. ✅ test: test user registration edge cases
 0121. ✨ feat: support email verification
 0755. 🚀 perf: cache repeated calculations
+0896. 🚀 perf: reduce image load time
