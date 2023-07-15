@@ -409,3 +409,4 @@
 0755. 🚀 perf: cache repeated calculations
 0896. 🚀 perf: reduce image load time
 0287. 📚 docs: write FAQ section
+0820. 📚 docs: add API usage examples
