@@ -418,3 +418,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0903. ✅ test: mock database connection in test suite
 0349. ✅ test: increase coverage on auth module
+0550. 🔧 refactor: split large controller into smaller functions
