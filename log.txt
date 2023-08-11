@@ -419,3 +419,4 @@
 0903. ✅ test: mock database connection in test suite
 0349. ✅ test: increase coverage on auth module
 0550. 🔧 refactor: split large controller into smaller functions
+0557. 🔧 refactor: clean up auth middleware
