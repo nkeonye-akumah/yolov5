@@ -423,3 +423,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0307. ✨ feat: support email verification
 0977. 🔧 refactor: organize models into subfolders
+0083. 🎨 style: reformat files with black
