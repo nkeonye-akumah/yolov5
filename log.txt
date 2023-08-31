@@ -431,3 +431,4 @@
 0643. 🎨 style: apply consistent indentation
 0825. 🔧 refactor: split large controller into smaller functions
 0424. ✨ feat: add user authentication
+0280. ✅ test: add integration test for /submit endpoint
