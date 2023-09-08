@@ -436,3 +436,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0107. 🐛 fix: prevent crash on empty input
 0665. ♻️ chore: update .gitignore
+0374. 🎨 style: standardize quote style
