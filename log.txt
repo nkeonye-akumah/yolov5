@@ -438,3 +438,4 @@
 0665. ♻️ chore: update .gitignore
 0374. 🎨 style: standardize quote style
 0551. 📚 docs: write FAQ section
+0492. 🎨 style: remove trailing whitespace
