@@ -440,3 +440,4 @@
 0551. 📚 docs: write FAQ section
 0492. 🎨 style: remove trailing whitespace
 0892. ✅ test: add unit test for quiz service
+0159. 🚀 perf: lazy-load components
