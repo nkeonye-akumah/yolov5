@@ -443,3 +443,4 @@
 0159. 🚀 perf: lazy-load components
 0999. 🔧 refactor: split large controller into smaller functions
 0009. ✨ feat: enable dark mode toggle
+0212. 🎨 style: standardize quote style
