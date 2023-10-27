@@ -465,3 +465,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0485. 📚 docs: update README with setup steps
 0467. ✅ test: add integration test for /submit endpoint
+0756. ✨ feat: support email verification
