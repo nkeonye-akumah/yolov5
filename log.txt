@@ -473,3 +473,4 @@
 0644. 🎨 style: apply consistent indentation
 0814. 🔧 refactor: remove redundant code blocks
 0982. 🚀 perf: lazy-load components
+0856. 🐛 fix: fix null pointer exception on login
