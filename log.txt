@@ -472,3 +472,4 @@
 0455. ♻️ chore: clean up unused files
 0644. 🎨 style: apply consistent indentation
 0814. 🔧 refactor: remove redundant code blocks
+0982. 🚀 perf: lazy-load components
