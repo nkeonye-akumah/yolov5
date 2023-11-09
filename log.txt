@@ -475,3 +475,4 @@
 0982. 🚀 perf: lazy-load components
 0856. 🐛 fix: fix null pointer exception on login
 0194. 🎨 style: standardize quote style
+0711. 🐛 fix: fix broken CSS in mobile view
