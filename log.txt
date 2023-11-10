@@ -477,3 +477,4 @@
 0194. 🎨 style: standardize quote style
 0711. 🐛 fix: fix broken CSS in mobile view
 0429. ✨ feat: add user authentication
+0278. 🔧 refactor: clean up auth middleware
