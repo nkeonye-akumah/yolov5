@@ -485,3 +485,4 @@
 0234. ♻️ chore: rename env.example
 0727. ♻️ chore: add GitHub actions badge
 0096. 🐛 fix: prevent crash on empty input
+0902. ✨ feat: enable dark mode toggle
