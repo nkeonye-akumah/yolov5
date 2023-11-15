@@ -488,3 +488,4 @@
 0902. ✨ feat: enable dark mode toggle
 0568. 🐛 fix: handle 500 error in quiz API
 0535. 📚 docs: write FAQ section
+0654. ✨ feat: create admin dashboard
