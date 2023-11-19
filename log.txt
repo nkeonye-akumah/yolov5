@@ -494,3 +494,4 @@
 0834. ✅ test: increase coverage on auth module
 0177. 📚 docs: add API usage examples
 0976. ✨ feat: implement quiz timer feature
+0141. 📚 docs: document token refresh logic
