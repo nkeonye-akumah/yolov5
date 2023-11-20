@@ -495,3 +495,4 @@
 0177. 📚 docs: add API usage examples
 0976. ✨ feat: implement quiz timer feature
 0141. 📚 docs: document token refresh logic
+0439. 🐛 fix: correct typo in registration form
