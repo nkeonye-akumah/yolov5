@@ -500,3 +500,4 @@
 0034. 📚 docs: improve code comments in utils
 0021. ✨ feat: support email verification
 0581. ✅ test: add integration test for /submit endpoint
+0752. ✅ test: add integration test for /submit endpoint
