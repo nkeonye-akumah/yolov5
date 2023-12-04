@@ -507,3 +507,4 @@
 0632. 🎨 style: remove trailing whitespace
 0352. ✨ feat: add export to CSV option
 0831. 📚 docs: clarify environment setup
+0724. ✅ test: mock database connection in test suite
