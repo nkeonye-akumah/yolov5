@@ -511,3 +511,4 @@
 0730. ✅ test: test user registration edge cases
 0372. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
+0585. 🚀 perf: lazy-load components
