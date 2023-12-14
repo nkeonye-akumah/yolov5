@@ -515,3 +515,4 @@
 0399. ✅ test: mock database connection in test suite
 0690. 🚀 perf: lazy-load components
 0811. 🎨 style: reformat files with black
+0074. ♻️ chore: add GitHub actions badge
