@@ -522,3 +522,4 @@
 0549. ✨ feat: enable dark mode toggle
 0306. 🎨 style: apply consistent indentation
 0157. ✅ test: mock database connection in test suite
+0430. 🐛 fix: fix null pointer exception on login
