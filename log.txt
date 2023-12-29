@@ -525,3 +525,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
 0824. 🚀 perf: lazy-load components
+0993. ✨ feat: implement quiz timer feature
