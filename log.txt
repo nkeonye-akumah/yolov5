@@ -528,3 +528,4 @@
 0993. ✨ feat: implement quiz timer feature
 0420. 🚀 perf: reduce image load time
 0232. 🎨 style: apply consistent indentation
+0502. 📚 docs: update README with setup steps
