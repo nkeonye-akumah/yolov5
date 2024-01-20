@@ -540,3 +540,4 @@
 0593. 🐛 fix: correct typo in registration form
 0548. 📚 docs: write FAQ section
 0741. 🎨 style: apply consistent indentation
+0357. ✅ test: add unit test for quiz service
