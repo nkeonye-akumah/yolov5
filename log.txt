@@ -541,3 +541,4 @@
 0548. 📚 docs: write FAQ section
 0741. 🎨 style: apply consistent indentation
 0357. ✅ test: add unit test for quiz service
+0436. ✅ test: add integration test for /submit endpoint
