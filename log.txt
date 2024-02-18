@@ -556,3 +556,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0094. 📚 docs: document token refresh logic
 0541. 🐛 fix: correct typo in registration form
+0722. 📚 docs: add API usage examples
