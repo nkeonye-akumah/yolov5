@@ -558,3 +558,4 @@
 0541. 🐛 fix: correct typo in registration form
 0722. 📚 docs: add API usage examples
 0215. 🎨 style: reformat files with black
+0592. 📚 docs: add API usage examples
