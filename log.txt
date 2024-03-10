@@ -567,3 +567,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0122. ✨ feat: support email verification
 0745. ✅ test: add unit test for quiz service
+0334. 🚀 perf: cache repeated calculations
