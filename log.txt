@@ -574,3 +574,4 @@
 0766. 🎨 style: reformat files with black
 0478. 🐛 fix: resolve issue with date parsing
 0669. ✨ feat: enable dark mode toggle
+0114. ♻️ chore: update .gitignore
