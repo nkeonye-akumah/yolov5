@@ -576,3 +576,4 @@
 0669. ✨ feat: enable dark mode toggle
 0114. ♻️ chore: update .gitignore
 0099. 🚀 perf: reduce image load time
+0129. 🔧 refactor: organize models into subfolders
