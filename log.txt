@@ -582,3 +582,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0773. 📚 docs: document token refresh logic
 0327. 🔧 refactor: split large controller into smaller functions
+0793. 📚 docs: clarify environment setup
