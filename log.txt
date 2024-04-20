@@ -594,3 +594,4 @@
 0106. 🎨 style: reformat files with black
 0235. 🐛 fix: fix null pointer exception on login
 0386. 🚀 perf: optimize database query for quiz results
+0319. 🐛 fix: handle 500 error in quiz API
