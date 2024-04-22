@@ -598,3 +598,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0601. ✨ feat: implement quiz timer feature
 0796. 🔧 refactor: refactor quiz grading logic
+0710. 🐛 fix: fix broken CSS in mobile view
