@@ -607,3 +607,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0313. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
+0923. ✨ feat: support email verification
