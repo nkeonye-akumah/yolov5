@@ -616,3 +616,4 @@
 0281. ✨ feat: support email verification
 0145. 📚 docs: improve code comments in utils
 0968. 🎨 style: standardize quote style
+0394. 🚀 perf: lazy-load components
