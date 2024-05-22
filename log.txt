@@ -620,3 +620,4 @@
 0516. ✅ test: add unit test for quiz service
 0913. 🚀 perf: optimize database query for quiz results
 0481. ✅ test: add unit test for quiz service
+0240. 🔧 refactor: remove redundant code blocks
