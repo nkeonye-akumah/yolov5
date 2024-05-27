@@ -623,3 +623,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0336. ✨ feat: add export to CSV option
 0570. 🎨 style: apply consistent indentation
+0483. 📚 docs: update README with setup steps
