@@ -626,3 +626,4 @@
 0483. 📚 docs: update README with setup steps
 0509. ♻️ chore: bump dependencies
 0471. ✨ feat: support email verification
+0979. 🎨 style: standardize quote style
