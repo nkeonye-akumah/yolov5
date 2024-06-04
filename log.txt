@@ -629,3 +629,4 @@
 0979. 🎨 style: standardize quote style
 0733. 🐛 fix: fix null pointer exception on login
 0870. ♻️ chore: clean up unused files
+0008. 🚀 perf: reduce image load time
