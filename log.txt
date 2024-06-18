@@ -637,3 +637,4 @@
 0351. ✨ feat: add export to CSV option
 0518. ✨ feat: support email verification
 0578. ✅ test: add integration test for /submit endpoint
+0158. 📚 docs: clarify environment setup
