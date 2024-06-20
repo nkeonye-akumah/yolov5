@@ -640,3 +640,4 @@
 0158. 📚 docs: clarify environment setup
 0173. 🚀 perf: cache repeated calculations
 0797. 📚 docs: add API usage examples
+0244. ✨ feat: add export to CSV option
