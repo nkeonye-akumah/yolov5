@@ -655,3 +655,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0624. ✅ test: add unit test for quiz service
 0035. ✅ test: increase coverage on auth module
+0036. 🔧 refactor: clean up auth middleware
