@@ -666,3 +666,4 @@
 0925. ✨ feat: add export to CSV option
 0466. 🚀 perf: optimize database query for quiz results
 0628. ♻️ chore: add GitHub actions badge
+0860. 🔧 refactor: organize models into subfolders
