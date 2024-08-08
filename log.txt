@@ -671,3 +671,4 @@
 0863. 🐛 fix: correct typo in registration form
 0534. 🔧 refactor: split large controller into smaller functions
 0170. ✅ test: increase coverage on auth module
+0117. ✅ test: increase coverage on auth module
