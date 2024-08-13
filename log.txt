@@ -673,3 +673,4 @@
 0170. ✅ test: increase coverage on auth module
 0117. ✅ test: increase coverage on auth module
 0085. ✨ feat: support email verification
+0699. 🎨 style: standardize quote style
