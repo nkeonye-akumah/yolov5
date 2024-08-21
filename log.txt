@@ -676,3 +676,4 @@
 0699. 🎨 style: standardize quote style
 0554. 📚 docs: improve code comments in utils
 0635. 🎨 style: apply consistent indentation
+0233. 🚀 perf: lazy-load components
