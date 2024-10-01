@@ -697,3 +697,4 @@
 0062. ♻️ chore: update .gitignore
 0395. 📚 docs: write FAQ section
 0569. 📚 docs: document token refresh logic
+0059. ♻️ chore: bump dependencies
