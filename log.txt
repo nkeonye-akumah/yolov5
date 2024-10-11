@@ -700,3 +700,4 @@
 0059. ♻️ chore: bump dependencies
 0237. 🎨 style: standardize quote style
 0174. 📚 docs: clarify environment setup
+0026. 🔧 refactor: clean up auth middleware
