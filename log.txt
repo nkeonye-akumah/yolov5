@@ -703,3 +703,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0792. 🎨 style: standardize quote style
 0468. 📚 docs: update README with setup steps
+0552. 🐛 fix: fix null pointer exception on login
