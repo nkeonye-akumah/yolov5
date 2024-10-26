@@ -711,3 +711,4 @@
 0656. 🎨 style: apply consistent indentation
 0855. 🎨 style: reformat files with black
 0347. ♻️ chore: update .gitignore
+0136. 🚀 perf: lazy-load components
