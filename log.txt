@@ -726,3 +726,4 @@
 0124. 🎨 style: reformat files with black
 0019. ✨ feat: enable dark mode toggle
 0246. ✅ test: add integration test for /submit endpoint
+0610. 🚀 perf: lazy-load components
