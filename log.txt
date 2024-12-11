@@ -734,3 +734,4 @@
 0112. ✨ feat: enable dark mode toggle
 0672. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
+0480. ♻️ chore: add GitHub actions badge
