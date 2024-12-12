@@ -735,3 +735,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
 0480. ♻️ chore: add GitHub actions badge
+0872. 🎨 style: rename variables for clarity
