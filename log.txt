@@ -737,3 +737,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0872. 🎨 style: rename variables for clarity
 0513. ♻️ chore: bump dependencies
+0583. ✅ test: increase coverage on auth module
