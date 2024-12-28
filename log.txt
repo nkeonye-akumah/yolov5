@@ -739,3 +739,4 @@
 0513. ♻️ chore: bump dependencies
 0583. ✅ test: increase coverage on auth module
 0886. ♻️ chore: clean up unused files
+0997. ✅ test: increase coverage on auth module
