@@ -744,3 +744,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0927. ♻️ chore: bump dependencies
 0051. ✨ feat: enable dark mode toggle
+0858. ♻️ chore: clean up unused files
