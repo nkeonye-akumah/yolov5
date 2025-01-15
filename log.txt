@@ -748,3 +748,4 @@
 0217. 🚀 perf: reduce image load time
 0527. 🎨 style: remove trailing whitespace
 0767. 🔧 refactor: remove redundant code blocks
+0893. 🐛 fix: handle 500 error in quiz API
