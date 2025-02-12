@@ -760,3 +760,4 @@
 0566. 📚 docs: write FAQ section
 0708. ✅ test: add integration test for /submit endpoint
 0115. 🚀 perf: reduce image load time
+0605. ✨ feat: support email verification
