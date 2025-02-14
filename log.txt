@@ -762,3 +762,4 @@
 0115. 🚀 perf: reduce image load time
 0605. ✨ feat: support email verification
 0188. 🎨 style: apply consistent indentation
+0268. 🐛 fix: prevent crash on empty input
