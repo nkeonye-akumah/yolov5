@@ -764,3 +764,4 @@
 0188. 🎨 style: apply consistent indentation
 0268. 🐛 fix: prevent crash on empty input
 0946. ✅ test: add unit test for quiz service
+0931. 🚀 perf: reduce image load time
