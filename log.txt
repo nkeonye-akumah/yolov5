@@ -766,3 +766,4 @@
 0946. ✅ test: add unit test for quiz service
 0931. 🚀 perf: reduce image load time
 0101. 📚 docs: clarify environment setup
+0520. 🐛 fix: fix null pointer exception on login
