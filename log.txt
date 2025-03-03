@@ -777,3 +777,4 @@
 0618. ✨ feat: support email verification
 0427. ✅ test: mock database connection in test suite
 0646. ✅ test: test user registration edge cases
+0179. 🔧 refactor: split large controller into smaller functions
