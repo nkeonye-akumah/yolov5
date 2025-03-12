@@ -782,3 +782,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0005. ✅ test: add unit test for quiz service
 0731. 🎨 style: standardize quote style
+0677. 📚 docs: add API usage examples
