@@ -786,3 +786,4 @@
 0473. 📚 docs: write FAQ section
 0155. ✨ feat: create admin dashboard
 0915. 🚀 perf: cache repeated calculations
+0090. ✅ test: increase coverage on auth module
