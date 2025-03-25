@@ -792,3 +792,4 @@
 0697. ♻️ chore: bump dependencies
 0961. 📚 docs: add API usage examples
 0802. 🔧 refactor: remove redundant code blocks
+0229. 🚀 perf: optimize database query for quiz results
