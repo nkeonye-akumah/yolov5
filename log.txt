@@ -798,3 +798,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0305. ✨ feat: enable dark mode toggle
 0998. 🐛 fix: fix null pointer exception on login
+0612. ✅ test: test user registration edge cases
