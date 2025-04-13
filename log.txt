@@ -803,3 +803,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0361. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
+0446. 🎨 style: apply consistent indentation
