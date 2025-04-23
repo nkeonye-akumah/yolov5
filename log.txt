@@ -810,3 +810,4 @@
 0219. ✅ test: increase coverage on auth module
 0681. ✨ feat: create admin dashboard
 0798. 🚀 perf: reduce image load time
+0992. ♻️ chore: clean up unused files
