@@ -815,3 +815,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0891. ✨ feat: create admin dashboard
 0850. ♻️ chore: rename env.example
+0985. 📚 docs: document token refresh logic
