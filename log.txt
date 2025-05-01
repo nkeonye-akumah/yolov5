@@ -816,3 +816,4 @@
 0891. ✨ feat: create admin dashboard
 0850. ♻️ chore: rename env.example
 0985. 📚 docs: document token refresh logic
+0392. 🎨 style: remove trailing whitespace
