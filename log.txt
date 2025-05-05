@@ -820,3 +820,4 @@
 0503. ♻️ chore: rename env.example
 0725. 🚀 perf: lazy-load components
 0980. 🎨 style: reformat files with black
+0443. 🎨 style: standardize quote style
