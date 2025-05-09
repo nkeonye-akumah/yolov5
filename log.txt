@@ -823,3 +823,4 @@
 0443. 🎨 style: standardize quote style
 0165. 🎨 style: remove trailing whitespace
 0345. 📚 docs: document token refresh logic
+0932. ✅ test: add integration test for /submit endpoint
