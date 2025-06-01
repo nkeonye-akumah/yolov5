@@ -834,3 +834,4 @@
 0376. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
 0908. ♻️ chore: bump dependencies
+0621. 🔧 refactor: clean up auth middleware
