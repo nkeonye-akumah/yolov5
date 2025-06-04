@@ -837,3 +837,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0911. ✅ test: increase coverage on auth module
 0795. 📚 docs: update README with setup steps
+0501. ✨ feat: add export to CSV option
