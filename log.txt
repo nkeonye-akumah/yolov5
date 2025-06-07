@@ -839,3 +839,4 @@
 0795. 📚 docs: update README with setup steps
 0501. ✨ feat: add export to CSV option
 0771. 🚀 perf: cache repeated calculations
+0437. 📚 docs: clarify environment setup
