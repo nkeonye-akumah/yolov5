@@ -851,3 +851,4 @@
 0924. ✅ test: mock database connection in test suite
 0258. 🐛 fix: prevent crash on empty input
 0152. ✨ feat: add user authentication
+0852. ✨ feat: enable dark mode toggle
