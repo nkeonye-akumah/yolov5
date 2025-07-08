@@ -853,3 +853,4 @@
 0152. ✨ feat: add user authentication
 0852. ✨ feat: enable dark mode toggle
 0790. 📚 docs: write FAQ section
+0477. 🐛 fix: fix broken CSS in mobile view
