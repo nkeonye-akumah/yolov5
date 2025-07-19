@@ -857,3 +857,4 @@
 0199. ✨ feat: create admin dashboard
 0486. ✨ feat: add export to CSV option
 0016. 🎨 style: apply consistent indentation
+0939. 📚 docs: update README with setup steps
