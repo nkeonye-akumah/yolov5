@@ -868,3 +868,4 @@
 0657. 🎨 style: standardize quote style
 0670. ✨ feat: add export to CSV option
 0379. ✨ feat: support email verification
+0251. ♻️ chore: update .gitignore
