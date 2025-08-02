@@ -871,3 +871,4 @@
 0251. ♻️ chore: update .gitignore
 0738. 🐛 fix: prevent crash on empty input
 0780. 📚 docs: add API usage examples
+0879. 🎨 style: standardize quote style
