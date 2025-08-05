@@ -873,3 +873,4 @@
 0780. 📚 docs: add API usage examples
 0879. 🎨 style: standardize quote style
 0515. 🚀 perf: optimize database query for quiz results
+0298. ♻️ chore: update .gitignore
