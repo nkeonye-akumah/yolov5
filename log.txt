@@ -875,3 +875,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0298. ♻️ chore: update .gitignore
 0283. ♻️ chore: add GitHub actions badge
+0686. 🎨 style: standardize quote style
