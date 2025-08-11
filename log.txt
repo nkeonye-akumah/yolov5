@@ -878,3 +878,4 @@
 0686. 🎨 style: standardize quote style
 0910. 🎨 style: remove trailing whitespace
 0260. ✨ feat: create admin dashboard
+0196. ♻️ chore: bump dependencies
