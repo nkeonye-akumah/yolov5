@@ -888,3 +888,4 @@
 0639. 🐛 fix: correct typo in registration form
 0293. ✅ test: add integration test for /submit endpoint
 0250. 📚 docs: update README with setup steps
+0942. ✅ test: increase coverage on auth module
