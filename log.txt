@@ -890,3 +890,4 @@
 0250. 📚 docs: update README with setup steps
 0942. ✅ test: increase coverage on auth module
 0178. ✨ feat: support email verification
+0564. 📚 docs: clarify environment setup
