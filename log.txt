@@ -891,3 +891,4 @@
 0942. ✅ test: increase coverage on auth module
 0178. ✨ feat: support email verification
 0564. 📚 docs: clarify environment setup
+0044. ✅ test: add unit test for quiz service
