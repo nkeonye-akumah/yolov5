@@ -897,3 +897,4 @@
 0184. 📚 docs: improve code comments in utils
 0842. 🎨 style: remove trailing whitespace
 0088. 📚 docs: add API usage examples
+0412. ✅ test: increase coverage on auth module
