@@ -898,3 +898,4 @@
 0842. 🎨 style: remove trailing whitespace
 0088. 📚 docs: add API usage examples
 0412. ✅ test: increase coverage on auth module
+0262. 🎨 style: remove trailing whitespace
