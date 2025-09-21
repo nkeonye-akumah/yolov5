@@ -901,3 +901,4 @@
 0262. 🎨 style: remove trailing whitespace
 0678. ✨ feat: add user authentication
 0716. ✨ feat: implement quiz timer feature
+0611. ✅ test: test user registration edge cases
