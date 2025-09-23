@@ -904,3 +904,4 @@
 0611. ✅ test: test user registration edge cases
 0598. 🔧 refactor: remove redundant code blocks
 0707. 🎨 style: apply consistent indentation
+0058. ♻️ chore: add GitHub actions badge
