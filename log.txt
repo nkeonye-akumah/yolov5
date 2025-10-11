@@ -916,3 +916,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0108. 🎨 style: remove trailing whitespace
 0539. 🔧 refactor: organize models into subfolders
+0880. 🐛 fix: fix broken CSS in mobile view
