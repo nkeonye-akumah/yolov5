@@ -940,3 +940,4 @@
 0348. ✅ test: test user registration edge cases
 0063. 🐛 fix: handle 500 error in quiz API
 0718. 🐛 fix: resolve issue with date parsing
+0616. 🚀 perf: lazy-load components
