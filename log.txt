@@ -948,3 +948,4 @@
 0295. 🎨 style: remove trailing whitespace
 0975. 🎨 style: apply consistent indentation
 0698. 🐛 fix: handle 500 error in quiz API
+0321. 🔧 refactor: organize models into subfolders
