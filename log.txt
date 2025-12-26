@@ -955,3 +955,4 @@
 0441. 📚 docs: add API usage examples
 0735. ♻️ chore: add GitHub actions badge
 0760. 🐛 fix: resolve issue with date parsing
+0841. 🚀 perf: optimize database query for quiz results
