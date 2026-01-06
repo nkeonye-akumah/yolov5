@@ -961,3 +961,4 @@
 0916. ♻️ chore: bump dependencies
 0920. 🔧 refactor: organize models into subfolders
 0904. ✨ feat: implement quiz timer feature
+0025. 🚀 perf: optimize database query for quiz results
