@@ -965,3 +965,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0761. ✅ test: add unit test for quiz service
 0069. 🎨 style: rename variables for clarity
+0600. 🐛 fix: prevent crash on empty input
