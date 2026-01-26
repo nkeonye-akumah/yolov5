@@ -972,3 +972,4 @@
 0169. 📚 docs: add API usage examples
 0912. 📚 docs: document token refresh logic
 0689. 🎨 style: reformat files with black
+0406. ✨ feat: add export to CSV option
