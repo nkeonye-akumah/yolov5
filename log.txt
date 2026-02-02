@@ -976,3 +976,4 @@
 0655. 🚀 perf: cache repeated calculations
 0153. ♻️ chore: rename env.example
 0637. 🎨 style: apply consistent indentation
+0901. ✨ feat: add user authentication
