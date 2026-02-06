@@ -977,3 +977,4 @@
 0153. ♻️ chore: rename env.example
 0637. 🎨 style: apply consistent indentation
 0901. ✨ feat: add user authentication
+0984. ♻️ chore: clean up unused files
