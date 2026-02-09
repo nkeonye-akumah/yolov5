@@ -983,3 +983,4 @@
 0048. 📚 docs: update README with setup steps
 0297. 🎨 style: remove trailing whitespace
 0040. 🔧 refactor: clean up auth middleware
+0387. ✨ feat: enable dark mode toggle
