@@ -982,3 +982,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0048. 📚 docs: update README with setup steps
 0297. 🎨 style: remove trailing whitespace
+0040. 🔧 refactor: clean up auth middleware
