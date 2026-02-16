@@ -986,3 +986,4 @@
 0387. ✨ feat: enable dark mode toggle
 0082. 🔧 refactor: refactor quiz grading logic
 0261. 🔧 refactor: refactor quiz grading logic
+0102. ✨ feat: support email verification
