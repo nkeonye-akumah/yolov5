@@ -988,3 +988,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0102. ✨ feat: support email verification
 0149. ✨ feat: add export to CSV option
+0873. 🚀 perf: cache repeated calculations
